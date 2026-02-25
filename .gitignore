@@ -1,3 +1,4 @@
 *.jar
 *.env
 *.properties
+*/target/
