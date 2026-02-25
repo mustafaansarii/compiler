@@ -2,6 +2,7 @@
 .env
 *.env
 *.properties
+target/
 */target/
 .env.example
 test.sh
