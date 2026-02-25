@@ -1,4 +1,7 @@
 *.jar
+.env
 *.env
 *.properties
 */target/
+.env.example
+test.sh
